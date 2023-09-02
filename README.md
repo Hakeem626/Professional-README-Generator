@@ -1,9 +1,9 @@
-# Professional Password Generator
+# Professional README.md Generator
   [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
   
-  A simple to use in terminal app to generate a professional readme.md
+  A simple to use in terminal application to generate a Professional README.md.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -15,19 +15,19 @@
   
   ## Installation
   
-  Close the repository on Github
+  Clone the respository from the Github.
   
   ## Usage
   
-  Run NPM Start to run the program
+  Run npm Start to run the application.
   
   ## Contributing
   
-  Hakeem did everything
+  Clone the github, contribute and try to push.
   
   ## Tests
   
-  run npm i
+  Run npm i before after installation, confirm everything is installed.
   
   ## License
   
